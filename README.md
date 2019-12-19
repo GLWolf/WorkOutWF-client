@@ -1,4 +1,4 @@
-# Thingful Client
+# WorkOutWF Client
 
 ## Setting Up
 
