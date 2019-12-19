@@ -1,0 +1,47 @@
+.usersProfile {
+    margin: 50px 10px 0 10px;
+    text-align: center;
+}
+
+.list {
+    border-radius: 7px;
+}
+
+.color {
+    color: #477ACC;
+}
+
+strong {
+    color: #477ACC;
+}
+
+.searchContainer {
+    text-align: center;
+    margin: 5px 0 20px 0;
+    font-size: 20px;
+}
+
+#search {
+    border-radius: 7px;
+    /* padding: 8px; */
+    width: 40%;
+    /* height: 35px; */
+    /* font-size: 15px; */
+}
+
+.sButton {
+    border-radius: 15px;
+    height: 23px;
+    border: 2px solid #477ACC;
+}
+
+.button {
+    border-radius: 7px;
+    font-size: 13px;
+    padding: 5px;
+    border: 2px solid #477ACC;
+}
+
+ul {
+    padding: 0;
+}

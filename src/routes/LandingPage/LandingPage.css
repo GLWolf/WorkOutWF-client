@@ -1,0 +1,14 @@
+.intro {
+  border-radius: 7px;
+  background-color: rgb(110, 173, 234);
+  margin: 50px 20px 10px 20px
+}
+
+.body {
+  padding: 10px 20px;
+}
+
+.Landing {
+  /* text-indent: 40px; */
+  text-align: center;
+}
