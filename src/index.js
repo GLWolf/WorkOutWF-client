@@ -3,8 +3,6 @@ import ReactDOM from 'react-dom'
 import { BrowserRouter } from 'react-router-dom'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import * as serviceWorker from './serviceWorker'
-// import { ThingListProvider } from './contexts/ThingListContext'
-// import { ThingProvider } from './contexts/ThingContext'
 import App from './components/App/App'
 import './index.css'
 
