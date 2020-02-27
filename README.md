@@ -14,10 +14,10 @@ A live version of the app can be found at [https://workoutwf.now.sh/]
  
 ## Quick App Demo
 
-![landing](img/landing.PNG)
-![login](img/login.PNG)
-![register](img/reg.PNG)
-![profile](img/profile.PNG)
+![landing](img/snap7.PNG)
+![login](img/snap8.PNG)
+![register](img/snap9.PNG)
+![profile](img/snap10.PNG)
 
 ## Technology
 
