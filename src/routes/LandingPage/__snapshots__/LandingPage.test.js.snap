@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component renders the UI as expected 1`] = `
+<section
+  className="Section intro"
+>
+  <div
+    className="body"
+  >
+    <h2
+      className="Landing"
+    >
+      Hello, Welcome to Work Out With Friends. This app will help you search for people that have a similar workout schedule. This app is in its Alpha stage, many features have not been added yet.
+    </h2>
+  </div>
+</section>
+`;

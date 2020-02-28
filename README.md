@@ -1,6 +1,5 @@
 # WorkOutWF
-Welcome to Work Out With Friends. This app will help you search for people that have a similar workout schedule. 
-
+WorkOutWF is an app that help to connect with others with a similar workout schedule. You can create a profile add in a day and general time that you are available to work out. After you can search by day and available times and find other users with that availability.
 
 The code for the back end server can be found at 
 [https://github.com/GLWolf/WorkOutWF-server].
@@ -12,7 +11,7 @@ The code for the client can be found at
 ## Live Link
 A live version of the app can be found at [https://workoutwf.now.sh/]
  
-## Quick App Demo
+## App Demo
 
 ![landing](img/snap7.PNG)
 ![login](img/snap8.PNG)
@@ -30,11 +29,10 @@ A live version of the app can be found at [https://workoutwf.now.sh/]
   * CSS3
   * HTML5
   * React-Vis (Uber)
-
   * Testing
   * Smoketest (integration)
   * Snapshot with Jest and Enzyme
-* Http Request
+  * Http Request
   * Fetch
 
 
