@@ -11,7 +11,7 @@ export default class Search extends Component {
 
     componentDidMount() {
       const {dayId} = this.props.match.params
-      console.log(dayId)
+      
         ThingApiService.searchWorkOut(dayId)
         .then(days =>{
           this.setState({days});
@@ -46,7 +46,7 @@ export default class Search extends Component {
   
 
     render() {
-      console.log(this.state.days)
+      
         return(
           <div className='results'>
           <ul>

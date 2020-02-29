@@ -74,7 +74,7 @@ state ={
         > 
         <div className='day_time'>
           <label htmlFor='day'>
-            Chose Day 
+            Choose Day 
           </label>
           <select
             className='list'
@@ -104,7 +104,7 @@ state ={
             </option>
           </select>
           <label htmlFor='time' className='list'>
-            Chose Time 
+            Choose Time 
           </label>
           <select
             className='list'

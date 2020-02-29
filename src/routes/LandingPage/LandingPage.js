@@ -9,8 +9,12 @@ export default class LandingPage extends Component {
       <Section className='intro'>
         <div className='body'>
           <h2 className='Landing'>
-          Hello, Welcome to Work Out With Friends. This app will help you search for people that have a similar workout schedule. 
-          This app is in its Alpha stage, many features have not been added yet. 
+          WorkOutWF is an app that help to connect with others
+          with a similar workout schedule. You can create a 
+          profile add in a day and general time that you are 
+          available to work out. After you can search by day 
+          and available times and find other users with that 
+          availability. 
           </h2>
         </div>
       </Section>
